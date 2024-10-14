@@ -1,0 +1,7 @@
+{
+      "name": "USDT",
+      "description": "Sample of Jetton",
+      "symbol": "USDT",
+      "decimals": 6,
+      "image": "https://www.svgrepo.com/download/483336/coin-vector.svg"
+}

@@ -1,7 +1,7 @@
 {
       "name": "USDT",
-      "description": "Sample of Jetton",
+      "description": "Tether Stable Token",
       "symbol": "USDT",
       "decimals": 6,
-      "image": "https://www.svgrepo.com/download/483336/coin-vector.svg"
+      "image": "https://raw.githubusercontent.com/xiaoyu1998/ton-dex/refs/heads/main/usdt-logo.svg"
 }

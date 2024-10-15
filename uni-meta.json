@@ -1,0 +1,7 @@
+{
+      "name": "UNI",
+      "description": "uniswap",
+      "symbol": "UNI",
+      "decimals": 18,
+      "image": "https://raw.githubusercontent.com/xiaoyu1998/ton-dex/refs/heads/main/usdt-logo.svg"
+}
